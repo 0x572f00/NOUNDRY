@@ -3,3 +3,7 @@
 
 .DS_Store
 *.backup
+
+*.zip
+
+_SCENES/_wip
