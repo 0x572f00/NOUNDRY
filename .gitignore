@@ -6,4 +6,11 @@
 
 *.zip
 
+_BLENDER/
+
 _SCENES/_wip
+_SCENES/noc
+
+MODELS/noc/
+
+OBJECT/*.gltf
