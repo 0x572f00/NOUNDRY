@@ -8,9 +8,10 @@
 
 _BLENDER/
 
-_SCENES/_wip
-_SCENES/noc
+_SCENES/
 
 MODELS/noc/
 
 OBJECT/*.gltf
+
+RENDER/
